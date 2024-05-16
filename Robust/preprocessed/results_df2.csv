@@ -1,0 +1,16 @@
+B0,Iterations,Added Constraints,Runtime (seconds),Stations Opened (pre-sampling),Estimated Stations Opened (post-sampling),Customers Unsatisfied (pre-sampling),Estimated Customers Unsatisfied (post-sampling),Minimum probability of dissatisfaction
+1,1,0,2.61,17,6.458,0,55.136,0.0597
+0.99,9,152,29.34,17,9.983,0,35.347,0.1967
+0.98,13,232,51.54,18,11.874,0,32.976,0.3152
+0.97,10,280,40.74,18,12.851,0,25.927,0.4714
+0.96,12,334,54.50,18,13.995,0,18.735,0.5586
+0.95,17,387,84.66,20,16.794,0,12.631,0.6742
+0.94,27,736,199.50,22,18.422,0,9.493,0.7637
+0.93,34,886,278.13,23,19.328,0,6.442,0.8171
+Deterministic,N/A,N/A,N/A,18,14.188,0,18.546,0.5586
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
